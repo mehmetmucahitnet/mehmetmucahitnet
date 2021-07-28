@@ -1,9 +1,10 @@
 ### Hi there 👋
 
+<!--
 <details>
 <summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=mehmetmucahitnet&theme=radical" >
-</details>
+</details> -->
 
 
 <!--
