@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Mücahit
 #### I am Frontend Developer
-![I am Frontend Developer]
-
 
 Skills: HTML / CSS / PUG / SCSS / JS (Basic) / Vue.JS (Basic) / Nuxt.JS (Basic) / Figma
 
@@ -19,8 +17,6 @@ Skills: HTML / CSS / PUG / SCSS / JS (Basic) / Vue.JS (Basic) / Nuxt.JS (Basic) 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetmucahitnet&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mehmetmucahitnet)  
-
-![GitHub metrics](https://metrics.lecoq.io/mehmetmucahitnet)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mehmetmucahitnet)  
 
