@@ -120,9 +120,6 @@ Hi guys 👋. Don't forget to use the links below to stay engaged! 🙃
 </a>
 <br><br>
 
-[![Sarthak's GitHub activity
-graph](https://activity-graph.herokuapp.com/graph?username=mehmetmucahitnet&&theme=dracula)](https://github.com/mehmetmucahitnet)
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=mehmetmucahitnet&show_icons=true&locale=en&theme=dracula"
   alt="mehmetmucahitnet" />
