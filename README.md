@@ -120,8 +120,5 @@ Hi guys 👋. Don't forget to use the links below to stay engaged! 🙃
 </a>
 <br><br>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=mehmetmucahitnet&show_icons=true&locale=en&theme=dracula"
-  alt="mehmetmucahitnet" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetmucahitnet&&theme=dracula"
   alt="mehmetmucahitnet" />
