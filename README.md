@@ -23,7 +23,7 @@ Hi guys 👋. Don't forget to use the links below to stay engaged! 🙃
 
 #### Connect with me 👇
 
-<a href="https://instagram.com/mehmetmucahitdev" target="blank" title="Instagram">
+<a href="https://instagram.com/mehmetmucahitnet" target="blank" title="Instagram">
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png"
     alt="mehmetmucahitnet" height="35" />
