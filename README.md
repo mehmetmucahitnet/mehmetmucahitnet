@@ -29,7 +29,7 @@ Hi guys 👋. Don't forget to use the links below to stay engaged! 🙃
     alt="mehmetmucahitnet" height="35" />
 </a>&emsp;
 <a href="https://twitter.com/mehmetmucahitc" target="blank" title="Twitter">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1024px-Twitter-logo.svg.png"
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png"
     alt="mehmetmucahitnet" height="35" />
 </a>&emsp;
 <a href="https://linkedin.com/mehmetmucahitnet" target="blank" title="LinkedIN">
@@ -118,7 +118,20 @@ Hi guys 👋. Don't forget to use the links below to stay engaged! 🙃
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png"
     alt="wordpress" height="35" title="Wordpress" />
 </a>
+<a href="https://expressjs.com/" target="_blank">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png?20170429090805"
+    alt="express.js" height="35" title="express.js" />
+</a>
+<a href="https://ejs.co/" target="_blank">
+  ejs.co
+</a>
 <br><br>
-
+<a href="https://www.postgresql.org/" target="_blank">
+  <img
+    src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png"
+    alt="postgresql" height="35" title="postgresql" />
+</a>
+<br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetmucahitnet&&theme=dracula"
   alt="mehmetmucahitnet" />
