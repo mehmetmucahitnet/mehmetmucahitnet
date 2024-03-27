@@ -16,10 +16,10 @@ Hi guys 👋. Don't forget to use the links below to stay engaged! 🙃
     alt="mehmetmucahitc" />
 </a>
 
-- 🔭 I’m currently working on **React.js & Next.js**
+<!--- - 🔭 I’m currently working on **React.js & Next.js** -->
 - 🌱 I’m currently learning **Advanced JS & React.js & Next.js**
-- 📝 I regularly write articles on [mehmetmucahit.net](mehmetmucahit.net)
 - 📫 How to reach me **mehmetmucahitnet@gmail.com**
+   <!--- - 📝 I regularly write articles on [mehmetmucahit.net](mehmetmucahit.net) -->
 
 #### Connect with me 👇
 
@@ -130,7 +130,17 @@ Hi guys 👋. Don't forget to use the links below to stay engaged! 🙃
 <a href="https://www.postgresql.org/" target="_blank">
   <img
     src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png"
-    alt="postgresql" height="35" title="postgresql" />
+    alt="postgresql" height="35" title="PostgreSQL" />
+</a>
+<a href="https://jinja.palletsprojects.com/en/3.1.x/" target="_blank">
+  <img
+    src="https://jinja.palletsprojects.com/en/3.1.x/_images/jinja-logo.png"
+    alt="jinja" height="35" title="Jinja" />
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
+  <img
+    src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg"
+    alt="tailwindcss" height="35" title="TailwindCSS" />
 </a>
 <br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetmucahitnet&&theme=dracula"
